@@ -1,0 +1,19 @@
+---
+title: "My *first* **Rmarkdown**"
+Name: "Abeer"
+output: pdf_document
+---
+## Addition
+```{r}
+a=1+1
+print(a)
+```
+
+```{r}
+```
+
+
+```{r}
+print("Hello world")
+```
+
